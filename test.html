@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .container h1 {
+        flex: 0 0 20%;
+        text-align: right;
+        border-right: 5px solid black;
+    }
+
+    .container .profile {
+        flex: 0 0 65%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .profile div {
+        flex: 0 0 80%;
+        padding:5px;
+    }
+
+    .bg-img {
+        background-image: url("https://static01.nyt.com/images/2016/08/05/us/05onfire1_xp/05onfire1_xp-superJumbo-v2.jpg");
+        background-size: cover;
+        min-height: 250px;
+        max-height: 250px;
+        border: 3px lime solid;
+    }
+
+</style>
+<body>
+    <div class="container">
+        <h1>Hello</h1>
+        <div class="profile">
+            <img src="./starter/images/headshot.png" width="150px" height="150px"/>
+            <div class="bg-img">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod sunt officiis neque tenetur non dolore odit quasi doloremque labore quos? Aut neque iusto laudantium, cupiditate quod explicabo. Animi, ipsa odit.</div>
+        </div>
+    </div>
+</body>
+</html>
