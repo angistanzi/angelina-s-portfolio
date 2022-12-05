@@ -1,8 +1,10 @@
-# Unit 2 Challenge: Portfolio
+# My Portfolio
 
 ## Description
-This is my FIRST EVER personal portfolio conataining "About Me", "My Work", and "Contact Info" sections. **The links do not currently lead anywhere, as I don't actually have projects to link to (will update as the course continues).
+This is my FIRST EVER personal portfolio conataining "About Me", "My Work", and "Contact Info" sections. 
 
-![Alt text](./starter/images/ezgif.com-gif-maker%20(4).gif?raw=true "Optional Title")
+**The project links under the "My Work" section do not currently lead anywhere, as I don't actually have projects to link to (will update as the course continues).
+
+![Portfolio Gif](./starter/images/ezgif.com-gif-maker%20(4).gif?raw=true "Portfolio Gif")
 
 
